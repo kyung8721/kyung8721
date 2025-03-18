@@ -14,9 +14,6 @@
   <a href="mailto:kyunbae8721@gmail.com">
     <img src="https://img.shields.io/badge/kyunbae8721@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://velog.io/@kyunbae8721/posts">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-  </a>
   
 </div>
 
